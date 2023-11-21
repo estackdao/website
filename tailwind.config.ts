@@ -11,9 +11,12 @@ const config: Config = {
       fontFamily:{
         brand: ['Zen Dots'],
         text:['Roboto'],
+        title:['Impact'],
       },
       backgroundImage: {
-        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
+        'lossless': "url('/images/lossless_textbg.png')",
+        'trustless': "url('/images/trustless_textbg.png')",
+        'seamless': "url('/images/seamless_textbg.png')",
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },

@@ -45,3 +45,11 @@
   font-display: swap;
   src: url('../fonts/Roboto-Bold.ttf') format('truetype');
 }
+
+@font-face {
+  font-family: 'Impact';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('../fonts/impact.ttf') format('truetype');
+}
