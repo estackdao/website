@@ -11,7 +11,7 @@ export default function Footer(){
             ©️ 2023 Estack
           </div>
           <div className='grow'></div>
-          <div className='flex items-center justify-center space-x-8'>
+          <div className='flex items-center justify-center space-x-3 md:space-x-8'>
             <Link href='https://github.com/estackdao' target='_blank'>
               <div className='w-5'>
                 <GithubIcon/>

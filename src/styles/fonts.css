@@ -49,7 +49,14 @@
 @font-face {
   font-family: 'Impact';
   font-style: normal;
-  font-weight: 300;
+  font-weight: 400;
   font-display: swap;
   src: url('../fonts/impact.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Bebas Neue';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/BebasNeue-Regular.ttf') format('truetype');
 }
