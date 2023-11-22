@@ -5,9 +5,9 @@ import { MediumIcon,TwitterIcon,GithubIcon,EthereumIcon } from '../Common/icon'
 export default function Footer(){
   return(
     <div className='bg-[#222C3C]'>
-      <div className='max-w-7xl mx-auto px-4 py-24'>
+      <div className='max-w-7xl mx-auto px-4 py-12'>
         <div className='flex items-center'>
-          <div className='text-[#DCE6FF] text-lg font-text font-medium'>
+          <div className='text-[#DCE6FF] text-lg font-text'>
             ©️ 2023 Estack
           </div>
           <div className='grow'></div>
