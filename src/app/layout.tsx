@@ -30,11 +30,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Next.js',
+    title: 'Estack',
     description: 'Building the Permissionless, Trustless and Interoperable intersection middleware for Ethereum LST infrastructure.',
-    siteId: '1467726470533754880',
     creator: '@estackdao',
-    creatorId: '1467726470533754880',
     images: ['https://estackdao.com/og.png'],
   },
 }
