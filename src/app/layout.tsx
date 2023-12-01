@@ -4,7 +4,7 @@ import '@/styles/fonts.css'
 
 
 export const metadata: Metadata = {
-  title:'Estack',
+  title:'Estack - Ethereum LST middleware',
   description:'Building the Permissionless, Trustless and Interoperable intersection middleware for Ethereum LST infrastructure.',
   keywords: ['Ethereum staking', 'LSD', 'LST'],
   metadataBase: new URL('https://estackdao.com'),
