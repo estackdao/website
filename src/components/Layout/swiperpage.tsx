@@ -32,6 +32,7 @@ export default function SwiperPage() {
         // install Swiper modules
         modules={[Mousewheel]}
         direction={'vertical'}
+        simulateTouch={false}
         slidesPerView={1}
         spaceBetween={0}
         mousewheel={{ releaseOnEdges: true }}
